@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: It will take some time to migrate
+subtitle: 
 tags: [test]
-comments: true
-mathjax: true
-author: Bill Smith
+comments: False
+mathjax: False
+author: Daniel Hillier
 ---
 
 {: .box-success}
