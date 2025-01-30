@@ -15,6 +15,10 @@ title: Visual Systems Neuroscience Lab
 # Your name to show in the footer
 author: Daniel Hillier
 
+header:
+  image: /assets/img/stained neurons glia.png
+  image_description: "Stained brain slice"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
